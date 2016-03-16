@@ -1,6 +1,7 @@
 # 安装
 
 ---
+
 参考节点运行状态
 ```
 curl localhost:9200/_nodes/stats/process?pretty
