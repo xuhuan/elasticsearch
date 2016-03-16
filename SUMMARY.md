@@ -1,5 +1,5 @@
 # Summary
 
 * [快速开始](quick_start.md)
-* 安装
+* [安装](setup.md)
 
